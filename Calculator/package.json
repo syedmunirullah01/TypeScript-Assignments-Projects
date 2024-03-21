@@ -1,0 +1,22 @@
+{
+  "name": "syed-calc",
+  "version": "1.0.3",
+  "description": "This Is A Simple Calculator",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Munir Ullah",
+  "license": "ISC",
+  "dependencies": {
+    "calc": "^0.0.2",
+    "inquirer": "^9.2.16",
+    "syed": "^1.0.2",
+    "syed-calc": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
